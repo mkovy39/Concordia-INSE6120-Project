@@ -1,6 +1,6 @@
 # INSE6210-Winter2024-Project-Group13
 
-# Title: Mobile network protocols, from 2G to 5G. Evolution and lessons learned
+# Title: Mobile network protocols, from 2G to 5G. Evolution and lessons learned.
 
 # Overview
 
