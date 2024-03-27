@@ -27,3 +27,9 @@ This project focuses on exploring the evolution of mobile network protocols from
 5. Implementation of Attacks
    - Implement at least two attacks on SS7 protocols in an emulated environment.
    - Document the process, tools used, and outcomes of the implemented attacks.
+
+# Prerequisites:
+
+1. Python version 2.7
+2. Java version 1.7 or higher
+3. A Linux-based system
